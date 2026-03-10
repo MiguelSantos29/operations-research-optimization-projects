@@ -96,5 +96,4 @@ a72443
 # Academic Context
 
 Operational Research  
-3rd Year – Software Engineering  
 University of Minho
